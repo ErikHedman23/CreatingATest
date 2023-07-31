@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\bin\Debug\net7.0\Creatingatest.exe
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\bin\Debug\net7.0\Creatingatest.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\bin\Debug\net7.0\Creatingatest.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\bin\Debug\net7.0\Creatingatest.dll
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\bin\Debug\net7.0\Creatingatest.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.dll
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\refint\Creatingatest.dll
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\Creatingatest.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\Creatingatest\Creatingatest\obj\Debug\net7.0\ref\Creatingatest.dll
